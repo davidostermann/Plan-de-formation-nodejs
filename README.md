@@ -10,6 +10,7 @@ Plan de formation Nodejs
 - git / github
 - node / npm
 - es6
+- anglais
 
 ---
 
