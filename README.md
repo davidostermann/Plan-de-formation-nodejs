@@ -8,6 +8,7 @@ Plan de formation Nodejs
 
 - javascript
 - git / github
+- node / npm
 - es6
 
 ---
