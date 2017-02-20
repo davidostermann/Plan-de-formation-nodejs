@@ -19,10 +19,11 @@ Backend developpement vocabulaire :
 - logging
 - Authentification
 - Caching
-- middleware
-- plugins
-- configuration
-- ...
+- session
+- validation
+- templates
+- orm
+...
 - Developer choice
 
 Les frameworks & libraires :
