@@ -16,7 +16,7 @@ Plan de formation Nodejs
 
 ## Jour 1
 
-Backend developpement vocabulaire :
+### Backend developpement vocabulaire :
 - routing
 - logging
 - Authentification
@@ -27,7 +27,7 @@ Backend developpement vocabulaire :
 - api
 - orm
 
-Les frameworks & libraires :
+### Les frameworks & libraires :
 - expressjs
 - hapijs
 - Strapi / Koa / waterline
@@ -46,7 +46,8 @@ Les frameworks & libraires :
 securité, caching, validation des données, configuration, ...
 
 ### En pratique
-- 
+- first server
+- request, response, error
 - Hapi first route GET (pour servir le json cf. react cours)
 - Templating back avec handlebar, ejs, jade ou React (Nous testerons nadlebar, ejs et pour finir react)
 
