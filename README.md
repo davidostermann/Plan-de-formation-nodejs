@@ -19,8 +19,11 @@ Backend developpement vocabulaire :
 - logging
 - Authentification
 - Caching
+- middleware
+- plugins
+- configuration
 - ...
-- Developper choice
+- Developer choice
 
 Les frameworks & libraires :
 - expressjs
