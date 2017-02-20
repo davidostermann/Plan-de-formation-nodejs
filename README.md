@@ -24,8 +24,6 @@ Backend developpement vocabulaire :
 - templates
 - api
 - orm
-...
-- Developer choice
 
 Les frameworks & libraires :
 - expressjs
