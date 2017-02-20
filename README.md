@@ -68,7 +68,7 @@ Les avantages de HAPI :
 ## Jour 4
 
 - Authentification : les différentes stratégies
-- We wil use Bearer token for creation, update and delete
+- We will use Bearer token for creation, update and delete
 - Projet Google map + Photo upload (suite)
 
 ## Jour 5
