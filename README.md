@@ -33,25 +33,28 @@ Les frameworks & libraires :
 - Strapi / Koa / waterline
 - sail.js / waterline
 
-Environnement
+### Environnement
 - ES6 / babel polyfill
 - eslint OU hapijs eslint
 - .editorconfig
 
-Hebergement :
+### Hebergement :
 - Heroku
 - Zeit
 
-Les avantages de HAPI :
-...
+### Les avantages de HAPI :
+securité, caching, validation des données, configuration, ...
 
-- Hapi first route
-- Templating back avec handlebar, ejs, jade ou React
+### En pratique
+- 
+- Hapi first route GET (pour servir le json cf. react cours)
+- Templating back avec handlebar, ejs, jade ou React (Nous testerons nadlebar, ejs et pour finir react)
 
 ## Jour 2
 
-- Securiser vos routes (404)
-- First API GET / POST / PUT / DELETE
+- Securiser vos routes (404) - Hapi 
+- rest API POST / PUT / DELETE
+- caching
 - Clean code (eslint-config-hapi) / separation of concern -> create controller
 
 ## Jour 3
@@ -73,12 +76,12 @@ Les avantages de HAPI :
 
 ## Jour 4
 
-- Authentification : les différentes stratégies
-- We will use Bearer token for creation, update and delete
+- Authentification : les différentes stratégies (Bearer token, Json Web Token, ...)
+- We will use authentification for creation, update and delete et le back-office
 - Projet Google map + Photo upload (suite)
 
 ## Jour 5
-
+- Heroku config (hook github, posgresql, ENV)
 - Projet Google map + Photo upload
 
 ## Jour 6
