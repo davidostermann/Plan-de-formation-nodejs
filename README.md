@@ -64,7 +64,6 @@ securité, caching, validation des données, configuration, ...
 - rest API POST / PUT / DELETE
 - validation des données (
 - caching
-- separation of concern -> create controller
 
 ## Jour 3
 
@@ -75,6 +74,7 @@ securité, caching, validation des données, configuration, ...
 - What is an ORM
 - Mongoose VS Sequelize VS ... Waterline ... Objection.js
 - We will use Sequelize
+- separation of concern -> create controller
 
 - Mise en place Repo Github
 - Mise en place server Heroku
