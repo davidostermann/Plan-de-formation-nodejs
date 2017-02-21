@@ -64,7 +64,7 @@ securité, caching, validation des données, configuration, ...
 - rest API POST / PUT / DELETE
 - validation des données (joi)
 - caching
-- Exercice : Hapi SSR 
+- Exercice : Hapi SSR (sur l'exercice cf. react cours)
 
 ## Jour 3
 
@@ -77,30 +77,39 @@ securité, caching, validation des données, configuration, ...
 - We will use Sequelize
 - separation of concern -> create controller
 
+- Modelisation de BDD : 1->1, 1->n, n->n
+
+- exercice model + controller + routing
+
+## Jour 4
+
+
+- Authentification : les différentes stratégies (Bearer token, Json Web Token, ...)
+- We will use authentification for creation, update and delete et le back-office
+
+- exercice : creation de compte + authentification + creation de commande user/produit (review des competences acquises)
+
+## Jour 5
 - Mise en place Repo Github
 - Mise en place server Heroku
 - Mise en place CDN Amazon S3
 
 - Prise de brief Google map + Photo upload
 - Projet Google map + Photo upload avec React / Hapi
-
-## Jour 4
-
-- Authentification : les différentes stratégies (Bearer token, Json Web Token, ...)
-- We will use authentification for creation, update and delete et le back-office
-- Projet Google map + Photo upload (suite)
-
-## Jour 5
 - Heroku config (hook github, posgresql, ENV)
-- Projet Google map + Photo upload
+
 
 ## Jour 6
 
+- Projet Google map + Photo upload
 - Graphql avec Apollo / Hapijs
 
 ## Jour 7
 
+- Projet Google map + Photo upload
+
 - Socket.io
+- chat ou jeux temps reel
 
 ## Jour 8
 
