@@ -26,6 +26,7 @@ Plan de formation Nodejs
 - templates
 - api
 - orm
+- proxy
 
 ### Les frameworks & libraires :
 - expressjs
@@ -47,16 +48,23 @@ securité, caching, validation des données, configuration, ...
 
 ### En pratique
 - first server
-- request, response, error
-- Hapi first route GET (pour servir le json cf. react cours)
+- server, request, response, error
 - Templating back avec handlebar, ejs, jade ou React (Nous testerons nadlebar, ejs et pour finir react)
+- Securiser vos routes (404) - Hapi 
+- Exercice : Hapi first API route GET (pour servir le json cf. react cours)
 
 ## Jour 2
 
-- Securiser vos routes (404) - Hapi 
+- Environnement : 
+  - postman
+  - nodemon
+  - node-foreman
+  - Clean code (eslint-config-hapi) 
+- Hapi plugins
 - rest API POST / PUT / DELETE
+- validation des données (
 - caching
-- Clean code (eslint-config-hapi) / separation of concern -> create controller
+- separation of concern -> create controller
 
 ## Jour 3
 
