@@ -62,8 +62,9 @@ securité, caching, validation des données, configuration, ...
   - Clean code (eslint-config-hapi) 
 - Hapi plugins
 - rest API POST / PUT / DELETE
-- validation des données (
+- validation des données (joi)
 - caching
+- Exercice : Hapi SSR 
 
 ## Jour 3
 
