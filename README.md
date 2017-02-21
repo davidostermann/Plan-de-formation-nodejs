@@ -71,14 +71,11 @@ securité, caching, validation des données, configuration, ...
 - Base de données
 - Sql vs Nosql vs Graph
 - We will use Posgresql
-
 - What is an ORM
 - Mongoose VS Sequelize VS ... Waterline ... Objection.js
 - We will use Sequelize
 - separation of concern -> create controller
-
 - Modelisation de BDD : 1->1, 1->n, n->n
-
 - exercice model + controller + routing
 
 ## Jour 4
@@ -86,18 +83,15 @@ securité, caching, validation des données, configuration, ...
 
 - Authentification : les différentes stratégies (Bearer token, Json Web Token, ...)
 - We will use authentification for creation, update and delete et le back-office
-
 - exercice : creation de compte + authentification + creation de commande user/produit (review des competences acquises)
 
 ## Jour 5
 - Mise en place Repo Github
 - Mise en place server Heroku
 - Mise en place CDN Amazon S3
-
 - Prise de brief Google map + Photo upload
 - Projet Google map + Photo upload avec React / Hapi
 - Heroku config (hook github, posgresql, ENV)
-
 
 ## Jour 6
 
@@ -107,7 +101,6 @@ securité, caching, validation des données, configuration, ...
 ## Jour 7
 
 - Projet Google map + Photo upload
-
 - Socket.io
 - chat ou jeux temps reel
 
