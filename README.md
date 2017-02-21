@@ -64,6 +64,7 @@ securité, caching, validation des données, configuration, ...
 - rest API POST / PUT / DELETE
 - validation des données (joi)
 - caching
+- Exercice : rest API POST / PUT / DELETE (sur l'exercice cf. react cours) avec levelDB
 - Exercice : Hapi SSR (sur l'exercice cf. react cours)
 
 ## Jour 3
